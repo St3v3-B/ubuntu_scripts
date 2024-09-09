@@ -48,6 +48,8 @@ Follow the command-line prompts to complete the setup processes interactively.
 ## Scripts Overview
 
 - `setup_lamp.sh`: Installs and configures Apache, MariaDB, and PHP, including phpMyAdmin setup.
+- `setup_docker+composer.sh`: Installs and confgures, docker and docker compose.
+- `setup_lamp_docker.sh`: Instals and configures, LAMP stack with phpMyAdmin using Docker.
 - `update_packages.sh` (TBD): Ensures all installed packages are up to date (planned feature).
 
 ## Contributing
