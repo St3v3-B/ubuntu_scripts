@@ -1,7 +1,3 @@
-Certainly! Below is a basic `README.md` file tailored for a repository named `ubuntu_scripts` that likely contains various scripts for configuring or managing an Ubuntu system:
-
----
-
 # ubuntu_scripts
 
 Welcome to the `ubuntu_scripts` repository, a collection of scripts designed to simplify various administrative tasks on Ubuntu systems. Whether you're setting up a new server, managing software, or configuring services, you'll find useful tools here to help automate your workflows.
